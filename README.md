@@ -1,6 +1,22 @@
 # OpenVINO-object-Detection
 ## OpenVINO
 
+추론 엔진을 사용하여 Intel 하드웨어 에 배포하고 프레임 워크에서 딥 러닝 모델을 최적화하는 데 도움이되는 무료 툴킷
+
+![image](https://user-images.githubusercontent.com/78781222/119837147-47983600-bf3d-11eb-9de9-ac0f80315df8.png)
+
+- 추론(Inference)은 학습 단계에 이어서 머신 러닝의 두 번째 단계
+
+학습 단계에서는 알고리즘이 새로운 모델을 생성하거나 또는 사전에 학습된 모델을 특정 애플리케이션에 맞게 변형하고 모델이 파라미터들을 학습하도록 한다. 
+
+추론 단계에서는 학습된 파라미터에 기반해서 새로운 데이터에 대해서 예측이나 판단을 한다.
+
+
+*OpenVINO*는 코드를 돌리지 않고, 가중치와 모델 구조를 이용하여 빠르게 데이터를 추론해 낼 수 있다. 
+
+
+### 설치 방법
+
 https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_raspbian.html
 
 Raspbian * OS 용 OpenVINO ™ 툴킷에는 추론 엔진과 MYRIAD 플러그인이 포함되어 있어 USB 포트 중 하나에 연결된 Intel® Neural Compute Stick 2와 함께 사용할 수 있습니다.
