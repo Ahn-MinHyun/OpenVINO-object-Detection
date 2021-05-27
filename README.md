@@ -1,7 +1,10 @@
 # OpenVINO-object-Detection
 ## OpenVINO
-
 추론 엔진을 사용하여 Intel 하드웨어 에 배포하고 프레임 워크에서 딥 러닝 모델을 최적화하는 데 도움이되는 무료 툴킷
+
+![image](https://user-images.githubusercontent.com/78781222/119839190-f4bf7e00-bf3e-11eb-8adc-642999c3e7a9.png)
+
+__인공지능 순서__
 
 ![image](https://user-images.githubusercontent.com/78781222/119837147-47983600-bf3d-11eb-9de9-ac0f80315df8.png)
 
